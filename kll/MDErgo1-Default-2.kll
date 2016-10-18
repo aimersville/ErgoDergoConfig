@@ -1,0 +1,22 @@
+Name = "MDErgo1";
+Layout = "Default";
+Base = "Blank";
+Version = "0.1";
+Author = "HaaTa (Jacob Alexander) 2015";
+KLL = "0.3c";
+Date = "2015-09-12";
+Generator = "KIICONF 0.2";
+
+U"5" : U"LCK5";
+U"4" : U"LCK4";
+U"3" : U"LCK3";
+U"2" : U"LCK2";
+U"1" : U"LCK1";
+U"LALT" : U"NEXT LAYER";
+U"LCTRL" : U"PREV LAYER";
+U"FUNCTION6" : U"LCK2";
+U"6" : U"LCK6";
+U"7" : U"LCK7";
+U"RALT" : U"NEXT LAYER";
+U"RCTRL" : U"PREV LAYER";
+
