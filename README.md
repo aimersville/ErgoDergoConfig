@@ -4,6 +4,8 @@ keyboard config
 #Configurator Tool
 https://input.club/configurator-ergodox/
 
-![arma config](/pics/ArmaConfig.png "Arma Configuration")
+# My Latest Keyboard Layout
 
 ![overall config](/pics/OverallErgoConfig.png "Overall Configuration")
+
+![arma config](/pics/ArmaConfig.png "Arma Configuration")
