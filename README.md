@@ -8,4 +8,6 @@ https://input.club/configurator-ergodox/
 
 ![overall config](/pics/OverallErgoConfig.png "Overall Configuration")
 
+Arma Config
+-----------
 ![arma config](/pics/ArmaConfig.png "Arma Configuration")
