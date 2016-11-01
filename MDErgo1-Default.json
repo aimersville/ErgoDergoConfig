@@ -24,6 +24,10 @@
                 "1": {
                     "key": "F11",
                     "label": "F11"
+                },
+                "3": {
+                    "key": "F11",
+                    "label": "F11"
                 }
             }
         },
@@ -45,6 +49,10 @@
                 "2": {
                     "key": "LCK5",
                     "label": "LOCK-5"
+                },
+                "3": {
+                    "key": "F5",
+                    "label": "F5"
                 }
             }
         },
@@ -66,6 +74,10 @@
                 "2": {
                     "key": "LCK4",
                     "label": "LOCK-4"
+                },
+                "3": {
+                    "key": "F4",
+                    "label": "F4"
                 }
             }
         },
@@ -87,6 +99,10 @@
                 "2": {
                     "key": "LCK3",
                     "label": "LOCK-3"
+                },
+                "3": {
+                    "key": "F3",
+                    "label": "F3"
                 }
             }
         },
@@ -108,6 +124,10 @@
                 "2": {
                     "key": "LCK2",
                     "label": "LOCK-2"
+                },
+                "3": {
+                    "key": "F2",
+                    "label": "F2"
                 }
             }
         },
@@ -129,6 +149,10 @@
                 "2": {
                     "key": "LCK1",
                     "label": "LOCK-1"
+                },
+                "3": {
+                    "key": "F1",
+                    "label": "F1"
                 }
             }
         },
@@ -320,9 +344,17 @@
             "w": 6,
             "h": 4,
             "layers": {
+                "0": {
+                    "key": "#:None",
+                    "label": "NONE"
+                },
                 "1": {
                     "key": "CAPSLOCK",
                     "label": "CAPSLK"
+                },
+                "3": {
+                    "key": "4",
+                    "label": "4"
                 }
             }
         },
@@ -334,10 +366,6 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "FUN1",
-                    "label": "\u01921"
-                },
-                "2": {
                     "key": "NEXT LAYER",
                     "label": "NEXT-\u0192"
                 }
@@ -351,10 +379,6 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LAT2",
-                    "label": "LATCH-2"
-                },
-                "2": {
                     "key": "PREV LAYER",
                     "label": "PREV-\u0192"
                 }
@@ -517,6 +541,10 @@
                 "0": {
                     "key": "LGUI",
                     "label": "LGUI"
+                },
+                "3": {
+                    "key": "3",
+                    "label": "3"
                 }
             }
         },
@@ -530,6 +558,10 @@
                 "0": {
                     "key": "RBRACE",
                     "label": "]"
+                },
+                "3": {
+                    "key": "2",
+                    "label": "2"
                 }
             }
         },
@@ -543,6 +575,10 @@
                 "0": {
                     "key": "LBRACE",
                     "label": "["
+                },
+                "3": {
+                    "key": "1",
+                    "label": "1"
                 }
             }
         },
@@ -590,6 +626,10 @@
                 "2": {
                     "key": "LCK2",
                     "label": "LOCK-2"
+                },
+                "3": {
+                    "key": "F12",
+                    "label": "F12"
                 }
             }
         },
@@ -611,6 +651,10 @@
                 "2": {
                     "key": "LCK6",
                     "label": "LOCK-6"
+                },
+                "3": {
+                    "key": "F6",
+                    "label": "F6"
                 }
             }
         },
@@ -633,6 +677,10 @@
                     "key": "LCK7",
                     "label": "LOCK-7"
                 },
+                "3": {
+                    "key": "F7",
+                    "label": "F7"
+                },
                 "5": {
                     "key": "NUMLOCK",
                     "label": "NMLK"
@@ -651,6 +699,10 @@
                     "label": "8"
                 },
                 "1": {
+                    "key": "F8",
+                    "label": "F8"
+                },
+                "3": {
                     "key": "F8",
                     "label": "F8"
                 },
@@ -675,6 +727,10 @@
                     "key": "F9",
                     "label": "F9"
                 },
+                "3": {
+                    "key": "F9",
+                    "label": "F9"
+                },
                 "5": {
                     "key": "P*",
                     "label": "P*"
@@ -693,6 +749,10 @@
                     "label": "0"
                 },
                 "1": {
+                    "key": "F10",
+                    "label": "F10"
+                },
+                "3": {
                     "key": "F10",
                     "label": "F10"
                 },
@@ -731,8 +791,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "MINUS",
-                    "label": "-"
+                    "key": "EQUAL",
+                    "label": "="
                 }
             }
         },
@@ -942,10 +1002,6 @@
                 "0": {
                     "key": "FUN1",
                     "label": "\u01921"
-                },
-                "2": {
-                    "key": "NEXT LAYER",
-                    "label": "NEXT-\u0192"
                 }
             }
         },
@@ -959,10 +1015,6 @@
                 "0": {
                     "key": "LAT2",
                     "label": "LATCH-2"
-                },
-                "2": {
-                    "key": "PREV LAYER",
-                    "label": "PREV-\u0192"
                 }
             }
         },
@@ -974,8 +1026,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "EQUAL",
-                    "label": "="
+                    "key": "MINUS",
+                    "label": "-"
                 }
             }
         },
@@ -1199,6 +1251,10 @@
                 "0": {
                     "key": "DELETE",
                     "label": "DEL"
+                },
+                "3": {
+                    "key": "RCTRL",
+                    "label": "RCTRL"
                 }
             }
         }
