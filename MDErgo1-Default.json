@@ -793,6 +793,10 @@
                 "0": {
                     "key": "EQUAL",
                     "label": "="
+                },
+                "1": {
+                    "key": "#:ledControl( 4, 15, 0 )",
+                    "label": "LED+"
                 }
             }
         },
@@ -1028,6 +1032,10 @@
                 "0": {
                     "key": "MINUS",
                     "label": "-"
+                },
+                "1": {
+                    "key": "#:ledControl( 3, 15, 0 )",
+                    "label": "LED-"
                 }
             }
         },

@@ -24,6 +24,8 @@ U"8" : U"F8";
 U"9" : U"F9";
 U"0" : U"F10";
 U"MINUS" : CONS"MUTE";
+U"LBRACE" : ledControl( 4, 15, 0 );
 U"RBRACE" : CONS"VOLUMEUP";
 U"QUOTE" : CONS"VOLUMEDOWN";
+U"FUNCTION7" : ledControl( 3, 15, 0 );
 
