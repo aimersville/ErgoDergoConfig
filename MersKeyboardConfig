@@ -158,6 +158,10 @@
         "0": {
           "key": "T",
           "label": "T"
+        },
+        "2": {
+          "key": "Y",
+          "label": "Y"
         }
       },
       "triggers": null
@@ -172,6 +176,10 @@
         "0": {
           "key": "R",
           "label": "R"
+        },
+        "2": {
+          "key": "P",
+          "label": "P"
         }
       },
       "triggers": null
@@ -186,6 +194,10 @@
         "0": {
           "key": "E",
           "label": "E"
+        },
+        "2": {
+          "key": ".",
+          "label": "."
         }
       },
       "triggers": null
@@ -200,6 +212,10 @@
         "0": {
           "key": "W",
           "label": "W"
+        },
+        "2": {
+          "key": ",",
+          "label": ","
         }
       },
       "triggers": null
@@ -214,6 +230,10 @@
         "0": {
           "key": "Q",
           "label": "Q"
+        },
+        "2": {
+          "key": "'",
+          "label": "'"
         }
       },
       "triggers": null
@@ -242,6 +262,10 @@
         "0": {
           "key": "G",
           "label": "G"
+        },
+        "2": {
+          "key": "I",
+          "label": "I"
         }
       },
       "triggers": null
@@ -256,6 +280,10 @@
         "0": {
           "key": "F",
           "label": "F"
+        },
+        "2": {
+          "key": "U",
+          "label": "U"
         }
       },
       "triggers": null
@@ -270,6 +298,10 @@
         "0": {
           "key": "D",
           "label": "D"
+        },
+        "2": {
+          "key": "E",
+          "label": "E"
         }
       },
       "triggers": null
@@ -284,6 +316,10 @@
         "0": {
           "key": "S",
           "label": "S"
+        },
+        "2": {
+          "key": "O",
+          "label": "O"
         }
       },
       "triggers": null
@@ -376,6 +412,10 @@
         "0": {
           "key": "B",
           "label": "B"
+        },
+        "2": {
+          "key": "X",
+          "label": "X"
         }
       },
       "triggers": null
@@ -390,6 +430,10 @@
         "0": {
           "key": "V",
           "label": "V"
+        },
+        "2": {
+          "key": "K",
+          "label": "K"
         }
       },
       "triggers": null
@@ -404,6 +448,10 @@
         "0": {
           "key": "C",
           "label": "C"
+        },
+        "2": {
+          "key": "J",
+          "label": "J"
         }
       },
       "triggers": null
@@ -418,6 +466,10 @@
         "0": {
           "key": "X",
           "label": "X"
+        },
+        "2": {
+          "key": "Q",
+          "label": "Q"
         }
       },
       "triggers": null
@@ -432,6 +484,10 @@
         "0": {
           "key": "Z",
           "label": "Z"
+        },
+        "2": {
+          "key": ";",
+          "label": ";"
         }
       },
       "triggers": null
@@ -750,6 +806,10 @@
         "0": {
           "key": "Y",
           "label": "Y"
+        },
+        "2": {
+          "key": "F",
+          "label": "F"
         }
       },
       "triggers": null
@@ -764,6 +824,10 @@
         "0": {
           "key": "U",
           "label": "U"
+        },
+        "2": {
+          "key": "G",
+          "label": "G"
         },
         "5": {
           "key": "P7",
@@ -783,6 +847,10 @@
           "key": "I",
           "label": "I"
         },
+        "2": {
+          "key": "C",
+          "label": "C"
+        },
         "5": {
           "key": "P8",
           "label": "P8"
@@ -800,6 +868,10 @@
         "0": {
           "key": "O",
           "label": "O"
+        },
+        "2": {
+          "key": "R",
+          "label": "R"
         },
         "5": {
           "key": "P9",
@@ -819,6 +891,10 @@
           "key": "P",
           "label": "P"
         },
+        "2": {
+          "key": "L",
+          "label": "L"
+        },
         "5": {
           "key": "KEYPAD PLUS",
           "label": "P+"
@@ -836,6 +912,10 @@
         "0": {
           "key": "'",
           "label": "'"
+        },
+        "2": {
+          "key": "/",
+          "label": "/"
         }
       },
       "triggers": null
@@ -850,6 +930,10 @@
         "0": {
           "key": "H",
           "label": "H"
+        },
+        "2": {
+          "key": "D",
+          "label": "D"
         }
       },
       "triggers": null
@@ -864,6 +948,10 @@
         "0": {
           "key": "J",
           "label": "J"
+        },
+        "2": {
+          "key": "H",
+          "label": "H"
         },
         "5": {
           "key": "P4",
@@ -883,6 +971,10 @@
           "key": "K",
           "label": "K"
         },
+        "2": {
+          "key": "T",
+          "label": "T"
+        },
         "5": {
           "key": "P5",
           "label": "P5"
@@ -901,6 +993,10 @@
           "key": "L",
           "label": "L"
         },
+        "2": {
+          "key": "N",
+          "label": "N"
+        },
         "5": {
           "key": "P6",
           "label": "P6"
@@ -918,6 +1014,10 @@
         "0": {
           "key": ";",
           "label": ";"
+        },
+        "2": {
+          "key": "S",
+          "label": "S"
         },
         "5": {
           "key": "KEYPAD PLUS",
@@ -992,6 +1092,10 @@
         "0": {
           "key": "N",
           "label": "N"
+        },
+        "2": {
+          "key": "B",
+          "label": "B"
         }
       },
       "triggers": null
@@ -1004,6 +1108,10 @@
       "h": 4,
       "layers": {
         "0": {
+          "key": "M",
+          "label": "M"
+        },
+        "2": {
           "key": "M",
           "label": "M"
         },
@@ -1025,6 +1133,10 @@
           "key": ",",
           "label": ","
         },
+        "2": {
+          "key": "W",
+          "label": "W"
+        },
         "5": {
           "key": "P2",
           "label": "P2"
@@ -1043,6 +1155,10 @@
           "key": ".",
           "label": "."
         },
+        "2": {
+          "key": "V",
+          "label": "V"
+        },
         "5": {
           "key": "P3",
           "label": "P3"
@@ -1060,6 +1176,10 @@
         "0": {
           "key": "/",
           "label": "/"
+        },
+        "2": {
+          "key": "Z",
+          "label": "Z"
         },
         "5": {
           "key": "PENTER",
@@ -1224,16 +1344,21 @@
   "custom": {},
   "animations": {},
   "canned": {},
-  "defines": [],
+  "defines": [
+    {
+      "name": "",
+      "value": ""
+    }
+  ],
   "header": {
     "Name": "MDErgo1",
     "Variant": null,
     "Layout": "Default",
     "Base": "Blank",
-    "Version": "0.1",
-    "Author": "HaaTa (Jacob Alexander) 2015",
+    "Version": "2.0",
+    "Author": "Mersville",
     "KLL": "0.3c",
-    "Date": "2015-09-12",
+    "Date": "2021-03-11",
     "Generator": "KIICONF 0.2"
   },
   "leds": [],
