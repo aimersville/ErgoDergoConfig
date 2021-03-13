@@ -1341,9 +1341,7 @@
       "triggers": null
     }
   ],
-  "custom": {
-    "0": "\n#~~~START ANIMATION (${__NAME__}) INJECTION~~~#\n\n#~~~END ANIMATION (${__NAME__}) INJECTION~~~#\n"
-  },
+  "custom": {},
   "animations": {},
   "canned": {},
   "defines": [],
