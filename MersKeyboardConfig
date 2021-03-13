@@ -1344,12 +1344,7 @@
   "custom": {},
   "animations": {},
   "canned": {},
-  "defines": [
-    {
-      "name": "",
-      "value": ""
-    }
-  ],
+  "defines": [],
   "header": {
     "Name": "MDErgo1",
     "Variant": null,
