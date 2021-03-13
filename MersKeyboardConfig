@@ -1062,8 +1062,8 @@
       "h": 4,
       "layers": {
         "0": {
-          "key": "`",
-          "label": "`"
+          "key": "#:'~'",
+          "label": "~"
         }
       },
       "triggers": null
@@ -1341,7 +1341,9 @@
       "triggers": null
     }
   ],
-  "custom": {},
+  "custom": {
+    "0": "\n#~~~START ANIMATION (${__NAME__}) INJECTION~~~#\n\n#~~~END ANIMATION (${__NAME__}) INJECTION~~~#\n"
+  },
   "animations": {},
   "canned": {},
   "defines": [],
@@ -1357,5 +1359,7 @@
     "Generator": "KIICONF 0.2"
   },
   "leds": [],
-  "macros": {}
+  "macros": {
+    "0": []
+  }
 }
