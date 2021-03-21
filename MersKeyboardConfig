@@ -309,7 +309,15 @@
       "w": 6,
       "h": 4,
       "layers": {
+        "0": {
+          "key": "PRINTSCREEN",
+          "label": "PRSC"
+        },
         "1": {
+          "key": "CAPSLOCK",
+          "label": "CAPSLK"
+        },
+        "7": {
           "key": "CAPSLOCK",
           "label": "CAPSLK"
         }
@@ -838,8 +846,8 @@
           "label": "'"
         },
         "1": {
-          "key": "CONS:PAUSE",
-          "label": "PAUSE"
+          "key": "CONS:PAUSE PLAY",
+          "label": "PL/PS"
         }
       },
       "triggers": null
@@ -940,6 +948,10 @@
         "0": {
           "key": "ENTER",
           "label": "↵"
+        },
+        "1": {
+          "key": "CONS:REWIND",
+          "label": "RW"
         }
       },
       "triggers": null
@@ -1218,8 +1230,8 @@
       "h": 4,
       "layers": {
         "0": {
-          "key": "RGUI",
-          "label": "RGUI"
+          "key": "DELETE",
+          "label": "DEL"
         }
       },
       "triggers": null
