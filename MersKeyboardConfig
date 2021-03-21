@@ -8,12 +8,8 @@
       "h": 4,
       "layers": {
         "0": {
-          "key": "ESC",
-          "label": "ESC"
-        },
-        "1": {
-          "key": "F11",
-          "label": "F11"
+          "key": "#:U\"Mute\" + CONS\"Mute\"",
+          "label": "MUT"
         }
       },
       "triggers": null
@@ -138,6 +134,10 @@
       "h": 6,
       "layers": {
         "0": {
+          "key": "#:U\"Volume Up\" + CONS\"Volume Up\"",
+          "label": "VOL+"
+        },
+        "1": {
           "key": "CONS:BRIGHTNESS INCREMENT",
           "label": "SCRN+"
         }
@@ -224,6 +224,10 @@
         "0": {
           "key": "TAB",
           "label": "TAB"
+        },
+        "1": {
+          "key": "SYS:SLEEP",
+          "label": "SLEEP"
         }
       },
       "triggers": null
@@ -348,6 +352,10 @@
       "h": 6,
       "layers": {
         "0": {
+          "key": "#:U\"Volume Down\" + CONS\"Volume Down\"",
+          "label": "VOL-"
+        },
+        "1": {
           "key": "CONS:BRIGHTNESS DECREMENT",
           "label": "SCRN-"
         }
@@ -520,8 +528,12 @@
       "h": 4,
       "layers": {
         "0": {
-          "key": "LCTRL",
-          "label": "LCTRL"
+          "key": "LGUI",
+          "label": "LGUI"
+        },
+        "7": {
+          "key": "LALT",
+          "label": "LALT"
         }
       },
       "triggers": null
@@ -562,12 +574,8 @@
       "h": 4,
       "layers": {
         "0": {
-          "key": "LGUI",
-          "label": "LGUI"
-        },
-        "7": {
-          "key": "LALT",
-          "label": "LALT"
+          "key": "LCTRL",
+          "label": "LCTRL"
         }
       },
       "triggers": null
@@ -580,8 +588,8 @@
       "h": 4,
       "layers": {
         "0": {
-          "key": "F4",
-          "label": "F4"
+          "key": "ESC",
+          "label": "ESC"
         },
         "1": {
           "key": "F12",
@@ -708,8 +716,8 @@
           "label": "\\"
         },
         "1": {
-          "key": "#:U\"Mute\" + CONS\"Mute\"",
-          "label": "MUT"
+          "key": "F11",
+          "label": "F11"
         },
         "6": {
           "key": "#:flashMode()",
@@ -830,8 +838,8 @@
           "label": "'"
         },
         "1": {
-          "key": "#:U\"Volume Up\" + CONS\"Volume Up\"",
-          "label": "VOL+"
+          "key": "CONS:PAUSE",
+          "label": "PAUSE"
         }
       },
       "triggers": null
@@ -932,10 +940,6 @@
         "0": {
           "key": "ENTER",
           "label": "↵"
-        },
-        "1": {
-          "key": "#:U\"Volume Down\" + CONS\"Volume Down\"",
-          "label": "VOL-"
         }
       },
       "triggers": null
