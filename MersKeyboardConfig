@@ -8,6 +8,10 @@
       "h": 4,
       "layers": {
         "0": {
+          "key": "ESC",
+          "label": "ESC"
+        },
+        "1": {
           "key": "#:U\"Mute\" + CONS\"Mute\"",
           "label": "MUT"
         }
@@ -596,8 +600,8 @@
       "h": 4,
       "layers": {
         "0": {
-          "key": "ESC",
-          "label": "ESC"
+          "key": "F2",
+          "label": "F2"
         },
         "1": {
           "key": "F12",
