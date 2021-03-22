@@ -126,6 +126,10 @@
         "6": {
           "key": "#:flashMode()",
           "label": "FLASH"
+        },
+        "7": {
+          "key": "#:'~'",
+          "label": "~"
         }
       },
       "triggers": null
