@@ -2,11 +2,12 @@
 keyboard config
 
 #Configurator Tool
-https://input.club/configurator-ergodox/
+https://kiibohd.github.io/wiki/#/Configurator
+(2018?) https://input.club/configurator-ergodox/
 
 # My Latest Keyboard Layout
-
-![overall config](/pics/OverallErgoConfig.png "Overall Configuration")
+![Base-1-2-Layers](/pics/Base-1-2-ErgoDergo-Keyboard-Config.jpg "Base-1-2 Layers")
+![6-7-Layers](/pics/6-7-ErgoDergo-Keyboard-Config.jpg "6-7 Layers")
 
 Arma Config
 -----------
